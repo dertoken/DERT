@@ -22,25 +22,3 @@ DERT is also compatible with frontend frameworks such as:
 
 You can also ship DERT in a Chrome extension.
 
-## Installation
-
-### Node.js
-```bash
-npm install DERT
-```
-or
-```bash
-yarn add DERT
-```
-
-### Browser
-First, don't use the release section of this repo, it has not updated in a long time.
-
-Then easiest way to use DERT in a browser is to install it as above and copy the dist file to your working folder. For example:
-```
-cp node_modules/DERT/dist/DERT.js ./js/DERT.js
-```
-so that you can call it in your HTML page as
-```
-<script src="./js/DERT.js"><script>
-```
