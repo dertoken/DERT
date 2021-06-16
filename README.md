@@ -5,7 +5,7 @@
 
 ## What is DERT?
 
-__[DERT - Developer Document](http://www.hbslys.vip/)__
+__[DERT - Official website](http://www.hbslys.vip/)__
 
 The open source code of dert (distributed energy resource) allows any developer to build different forms of distributed applications running on the protocol, which ensures the security and simplicity of design.
 
