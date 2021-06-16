@@ -1,13 +1,13 @@
 <h1 align="center">
-  <img align="center" src="https://coin.top/production/upload/logo/TCZrHCQMk51DBRDhgrLENT2py92CB2WeUd.png?t=1623064349824" width="400"/>
+  <img align="center" src="https://coin.top/production/upload/logo/TCZrHCQMk51DBRDhgrLENT2py92CB2WeUd.png?t=1623064349824" width="100"/>
 </h1>
 
 
 ## What is DERT?
 
-__[Tron Web - Developer Document](https://developers.tron.network/docs/tron-web-intro)__
+__[DERT - Developer Document](http://www.hbslys.vip/)__
 
-DERT aims to deliver a unified, seamless development experience influenced by Ethereum's [Web3](https://github.com/ethereum/web3.js/) implementation. We have taken the core ideas and expanded upon it to unlock the functionality of TRON's unique feature set along with offering new tools for integrating DApps in the browser, Node.js and IoT devices.
+The open source code of dert (distributed energy resource) allows any developer to build different forms of distributed applications running on the protocol, which ensures the security and simplicity of design.
 
 ## Compatibility
 - Version built for Node.js v6 and above
