@@ -44,18 +44,3 @@ so that you can call it in your HTML page as
 ```
 <script src="./js/DERT.js"><script>
 ```
-
-## Testnet
-
-Shasta is the official Tron testnet. To use it use the following endpoint:
-```
-https://api.shasta.trongrid.io
-```
-Get some Shasta TRX at https://www.trongrid.io/shasta and play with it.
-Anything you do should be explorable on https://shasta.tronscan.org
-
-## Your local private network for heavy testing
-
-
-For more historic data, check the original repo at
-[https://github.com/tronprotocol/tron-web](https://github.com/tronprotocol/tron-web)
